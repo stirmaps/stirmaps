@@ -1,8 +1,8 @@
 var data = { "count": 8,
  "services": [
-{"service_details": "<div style='background-color: lightblue;font-family:courier;'>Service Name: 愛心服務demo<br>Organization: STIR<br>Email: stir@yahoo.com<br>Website: <a href='https://www.google.com.hk' target='_blank'>Visit STIR</a></div>", "longitude": 86.66161, "latitude": 27.00564, "category": "ngo"}
+{"service_details": "<div style='font-family:courier;'>Service Name: 愛心服務demo<br>Organization: STIR<br>Email: stir@yahoo.com<br>Website: <a href='https://www.google.com.hk' target='_blank'>Visit STIR</a></div>", "longitude": 86.66161, "latitude": 27.00564, "category": "ngo"}
 ,
-{"service_details": "<div style='background-color: green;font-family:verdana;'>Service Name: 愛心服務<br>Organization: STIR<br>Email: stir@yahoo.com<br>Website: <a href='https://www.google.com.hk' target='_blank'>Visit STIR</a></div>", "longitude": 81.73974, "latitude": 28.94600, "category": "corp"}
+{"service_details": "<div style='font-family:verdana;'>Service Name: 愛心服務<br>Organization: STIR<br>Email: stir@yahoo.com<br>Website: <a href='https://www.google.com.hk' target='_blank'>Visit STIR</a></div>", "longitude": 81.73974, "latitude": 28.94600, "category": "corp"}
 ,
 {"service_details": "Service Name: 愛心服務<br>Organization: STIR<br>Email: stir@yahoo.com<br>Website: <a href='https://www.google.com.hk' target='_blank'>Visit STIR</a>", "longitude": 102.47094, "latitude": 30.97823, "category": "gov"}
 ,
