@@ -1,20 +1,20 @@
 var data = { "count": 8,
  "services": [
-{"service_details": "<div style='font-family:courier;'>Service Name: 愛心服務demo<br>Organization: STIR<br>Email: stir@yahoo.com<br>Website: <a href='https://www.google.com.hk' target='_blank'>Visit STIR</a></div>", "longitude": 86.66161, "latitude": 27.00564, "category": "ngo"}
+{"service_details": "<div style='font-family:courier;'>項目: 童夢無窮<br>開始時間: 2013<br>負責單位: 香港大學社團</div>", "longitude": 86.66161, "latitude": 27.00564, "category": "healthcare"}
 ,
-{"service_details": "<div style='font-family:verdana;'>Service Name: 愛心服務<br>Organization: STIR<br>Email: stir@yahoo.com<br>Website: <a href='https://www.google.com.hk' target='_blank'>Visit STIR</a></div>", "longitude": 81.73974, "latitude": 28.94600, "category": "corp"}
+{"service_details": "<div style='font-family:verdana;'>項目: 童夢無窮<br>開始時間: 2013<br>負責單位: 香港大學社團</div>", "longitude": 81.73974, "latitude": 28.94600, "category": "education"}
 ,
-{"service_details": "Service Name: 愛心服務<br>Organization: STIR<br>Email: stir@yahoo.com<br>Website: <a href='https://www.google.com.hk' target='_blank'>Visit STIR</a>", "longitude": 102.47094, "latitude": 30.97823, "category": "gov"}
+{"service_details": "項目: 童夢無窮<br>開始時間: 2013<br>負責單位: 香港大學社團", "longitude": 102.47094, "latitude": 30.97823, "category": "construction"}
 ,
-{"service_details": "Service Name: 愛心服務<br>Organization: STIR<br>Email: stir@yahoo.com<br>Website: <a href='https://www.google.com.hk' target='_blank'>Visit STIR</a>", "longitude": 103.89916, "latitude": 32.39913, "category": "corp"}
+{"service_details": "項目: 童夢無窮<br>開始時間: 2013<br>負責單位: 香港大學社團", "longitude": 103.89916, "latitude": 32.39913, "category": "economics"}
 ,
-{"service_details": "Service Name: 愛心服務<br>Organization: STIR<br>Email: stir@yahoo.com<br>Website: <a href='https://www.google.com.hk' target='_blank'>Visit STIR</a>", "longitude": 99.90014, "latitude": 33.48704, "category": "school"}
+{"service_details": "項目: 童夢無窮<br>開始時間: 2013<br>負責單位: 香港大學社團", "longitude": 99.90014, "latitude": 33.48704, "category": "construction"}
 ,
-{"service_details": "Service Name: 愛心服務<br>Organization: STIR<br>Email: stir@yahoo.com<br>Website: <a href='https://www.google.com.hk' target='_blank'>Visit STIR</a>", "longitude": 99.50463, "latitude": 31.31672, "category": "ngo"}
+{"service_details": "項目: 童夢無窮<br>開始時間: 2013<br>負責單位: 香港大學社團", "longitude": 99.50463, "latitude": 31.31672, "category": "education"}
 ,
-{"service_details": "Service Name: 愛心服務<br>Organization: STIR<br>Email: stir@yahoo.com<br>Website: <a href='https://www.google.com.hk' target='_blank'>Visit STIR</a>", "longitude": 100.18578, "latitude": 28.26632, "category": "school"}
+{"service_details": "項目: 童夢無窮<br>開始時間: 2013<br>負責單位: 香港大學社團", "longitude": 100.18578, "latitude": 28.26632, "category": "economics"}
 ,
-{"service_details": "Service Name: 愛心服務<br>Organization: STIR<br>Email: stir@yahoo.com<br>Website: <a href='https://www.google.com.hk' target='_blank'>Visit STIR</a>", "longitude": 96.99975, "latitude": 33.00927, "category": "ngo"}
+{"service_details": "項目: 童夢無窮<br>開始時間: 2013<br>負責單位: 香港大學社團", "longitude": 96.99975, "latitude": 33.00927, "category": "healthcare"}
 
 ]}
 
