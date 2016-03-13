@@ -4,7 +4,7 @@ var data = { "count": 8,
 ,
 {"service_details": "<div style='font-family:verdana;'>項目: 童夢無窮<br>開始時間: 2013<br>負責單位: 香港大學社團</div>", "longitude": 81.73974, "latitude": 28.94600, "category": "education"}
 ,
-{"service_details": "項目123: 童夢無窮<br>開始時間: 2016<br>負責單位: 香港大學社團ABC”, "longitude": 102.47094, "latitude": 30.97823, "category": "construction"}
+{"service_details": "項目: 童夢無窮<br>開始時間: 2013<br>負責單位: 香港大學社團", "longitude": 102.47094, "latitude": 30.97823, "category": "construction"}
 ,
 {"service_details": "項目: 童夢無窮<br>開始時間: 2013<br>負責單位: 香港大學社團", "longitude": 103.89916, "latitude": 32.39913, "category": "economics"}
 ,
@@ -17,4 +17,3 @@ var data = { "count": 8,
 {"service_details": "項目: 童夢無窮<br>開始時間: 2013<br>負責單位: 香港大學社團", "longitude": 96.99975, "latitude": 33.00927, "category": "healthcare"}
 
 ]}
-
