@@ -2,7 +2,7 @@ var data = {
   "count": 8,
   "services": [
     {
-      "service_details": "<div style='font-family:courier;'>項目: 童夢無窮<br>開始時間: 2013<br>負責單位: 香港大學社團<br>url: <a href=‘http://hk.yahoo.com'>hk.yahoo.com</a></div>",
+      "service_details": "<div style='font-family:courier;'>項目: 童夢無窮<br>開始時間: 2013<br>負責單位: 香港大學社團<br>Website: <a href='https://www.google.com.hk' target='_blank'>Visit STIR</a></div>",
       "longitude": 86.66161,
       "latitude": 27.00564,
       "category": "education"
